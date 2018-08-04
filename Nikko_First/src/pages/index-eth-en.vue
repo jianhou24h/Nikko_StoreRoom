@@ -1,15 +1,13 @@
 <template>
-  <q-page padding>
-    <!-- content -->
-    English
-  </q-page>
+  <div>english</div>
 </template>
 
 <script>
 export default {
-  // name: 'PageName',
+  name: 'app'
 }
 </script>
 
 <style>
+
 </style>
